@@ -1,4 +1,4 @@
-midnight-celebration
+Midnight Celebration
 ====================
 
-Midnight Celebration :: Musics of the blissful night.
+Musics of the blissful night.
